@@ -1,5 +1,5 @@
 burps
-![](https://komarev.com/ghpvc/?username=your-drayywoo&color=546095).
+![](https://komarev.com/ghpvc/?username=your-drayywoo&color=546095)
 <!--
 **drayywoo/drayywoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
