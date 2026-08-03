@@ -1,5 +1,5 @@
 ⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀⠀
-![](https://komarev.com/ghpvc/?username=your-drayywoo&color=yellow&style=plastic&label=sundown)
+![](https://komarev.com/ghpvc/?username=your-drayywoo&color=gray&style=plastic&label=sundown)
 <!--
 **drayywoo/drayywoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
