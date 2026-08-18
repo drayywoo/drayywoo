@@ -1,3 +1,3 @@
-⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀⠀![](https://komarev.com/ghpvc/?username=drayywoo&color=gray&style=plastic&label=sundown)
+⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀⠀![](https://komarev.com/ghpvc/?username=drayywoo&color=gray&style=plastic&label=sundown&abbreviated=true)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[pt-hall-of-media](https://github.com/pt-hall-of-media)✦
