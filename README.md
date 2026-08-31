@@ -2,4 +2,4 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[pt-hall-of-media](https://github.com/pt-hall-of-media)✦
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀[stop using rentry btw](https://www.tumblr.com/vocaloidtransparents/824069364392329216/stop-using-rentry)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[stop using rentry btw](https://www.tumblr.com/vocaloidtransparents/824069364392329216/stop-using-rentry)
